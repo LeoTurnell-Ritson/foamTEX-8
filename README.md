@@ -1,7 +1,8 @@
 <h3 align="center">foamTEX</h3>
 
   <p align="center">
-    An open source utility for creating publication quality figures in LaTex, with scripts generated from OpenFOAM data files.
+    An open source utility for creating publication quality figures in LaTex,
+    with scripts generated from OpenFOAM data files.
     <br />
     <a href="https://github.com/LeoTurnell-Ritson/foamTEX"><strong>Explore the docs »</strong></a>
     <br />
@@ -48,7 +49,7 @@ For more information about OpenFOAM or LateX:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Installation is supper easy and the main foamTex.py source file can be run as an executable out of the box without any prerequisites (other than python3) Note: there is not requirement for either LateX or OpenFOAM. If you wish to run foamTEX as an executable follow the instructions bellow (written for bash Unix shell). 
+Installation is supper easy. The main foamTex.py source file can be run as an executable out of the box without any prerequisites (other than python3). Note that neither LateX or OpenFOAM are required. If you wish to run foamTEX as an executable follow the instructions bellow (written for bash Unix shell). 
 
 ### Prerequisites
 
@@ -82,9 +83,7 @@ Installation is supper easy and the main foamTex.py source file can be run as an
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,7 +94,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/LeoTurnell-Ritson/foamTEX/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
