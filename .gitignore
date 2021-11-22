@@ -1,0 +1,4 @@
+build
+dist
+foamTEX.spec
+src/__pycache__
