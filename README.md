@@ -45,7 +45,7 @@ FoamTex is a [python](https://www.python.org/) biased utility for generating [La
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Installation is supper easy. The main foamTex.py source file can be run as an executable out of the box without any prerequisites (other than python3). Note that neither LateX or OpenFOAM are required. If you wish to run foamTEX as an executable follow the instructions bellow (written for bash Unix shell). 
+Installation is supper easy. The main foamTex.py source file can be run out of the box without any prerequisites (other than python3). Note that neither LateX or OpenFOAM are required. If you wish to run foamTEX as an executable follow the instructions bellow (written for bash Unix shell). 
 
 ### Prerequisites
 
