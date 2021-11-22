@@ -1,8 +1,7 @@
 <h3 align="center">foamTEX</h3>
 
   <p align="center">
-    An open source utility for creating publication quality figures in LaTex,
-    with scripts generated from OpenFOAM data files.
+    An open source utility for creating publication quality LaTex scripts <br /> generated from OpenFOAM data files.
     <br />
     <a href="https://github.com/LeoTurnell-Ritson/foamTEX"><strong>Explore the docs »</strong></a>
     <br />
