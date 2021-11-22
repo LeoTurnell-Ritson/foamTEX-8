@@ -79,14 +79,11 @@ Installation is supper easy. The main foamTex.py source file can be run out of t
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To get infoamtion about the usage of foamTEX try:
-
+To get infoamtion about the usage of foamTEX try the help option with:
     ```sh
     foamTex -h
     ```
-
 or:
-
     ```sh
     python3 foamTex.py -h
     ```
