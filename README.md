@@ -39,10 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-foamTex is a python biased utility for generating LaTeX scripts from raw OpenFOAM data files. This project is currently in early development.
-
-For more information about OpenFOAM or LateX:
-
+FoamTex is a [python](https://www.python.org/) biased utility for generating [LaTeX](https://www.latex-project.org/) scripts from raw [OpenFOAM](https://www.openfoam.com/) data files. This project is currently in early development.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,10 +80,7 @@ Installation is supper easy. The main foamTex.py source file can be run as an ex
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -94,7 +88,6 @@ Installation is supper easy. The main foamTex.py source file can be run as an ex
 See the [open issues](https://github.com/LeoTurnell-Ritson/foamTEX/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
