@@ -79,6 +79,16 @@ Installation is supper easy. The main foamTex.py source file can be run out of t
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+To get infoamtion about the usage of foamTEX try:
+    ```sh
+    foamTex -h
+    ```
+or:
+    ```sh
+    python3 foamTex.py -h
+    ```
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -106,7 +116,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
